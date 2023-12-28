@@ -18,5 +18,15 @@ elif c>a and c>b:
 else:
     print("three are equel")
 
+j=int(input("enter your number: "))
+
+if j>0:
+    print("j is positive")
+elif j<0:
+    print("j is negative")
+else:
+    print("j is zero")
+
+
 
 
