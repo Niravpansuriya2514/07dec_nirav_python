@@ -5,7 +5,7 @@ print(len(data))
 if 'c+' in data:
     print("yes...")
 else:
-    print("no data is not found")
+    print("data is not found")
 
 # replace your string in index wise
 data[2]='android'
