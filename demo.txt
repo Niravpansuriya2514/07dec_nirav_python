@@ -1,0 +1,7 @@
+
+id = 7238
+name = enter your name: 
+sub = enter  your sub: 
+id = 7238
+name = nirav
+sub = python
