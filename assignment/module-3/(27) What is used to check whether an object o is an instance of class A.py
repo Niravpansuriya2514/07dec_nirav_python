@@ -10,4 +10,4 @@ o=A()
 y=B()
 
 
-print(isinstance(o,B))
+print(isinstance(o,A))
