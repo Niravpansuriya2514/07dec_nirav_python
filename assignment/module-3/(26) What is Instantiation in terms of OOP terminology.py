@@ -41,5 +41,5 @@
 # -> Polymorphism simply means having many forms
 # -> This code concept of inheritance and method overriding in Python class
 
-# # (6) data binding
+# # (6) data hinding
 # -> It hides unnecessary code details from the user
