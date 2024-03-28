@@ -1,7 +1,7 @@
 class account:
     import random
     
-    acnumber=random.randint(111111111111,9999999999999)
+    acnumber=random.randint(111111111111,999999999999)
     def acdetail(self):
         self.name=input("enter your name: ")
 

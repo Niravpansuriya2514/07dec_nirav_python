@@ -1,6 +1,6 @@
 data=['c','c++','ds','python','java','php']
 print(data)
-print(len(data))
+
 
 if 'c+' in data:
     print("yes...")
